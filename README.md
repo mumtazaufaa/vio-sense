@@ -1,4 +1,4 @@
-### Setup + Start FE
+### Setup + Start FE 
 
 ```
 cd frontend
